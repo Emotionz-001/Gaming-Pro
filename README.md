@@ -1,2 +1,1 @@
-# Gaming-Pro
-Project for Aptech"s Tech wiz 
+# adse_mind_games
